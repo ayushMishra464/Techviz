@@ -65,10 +65,23 @@ The Flask server exposes a `/execute` endpoint that the app communicates with to
 - **POST** `/execute`
     - **Request Body**: JSON object containing the command to be executed and optionally the sensor range.
     - **Response**: JSON object containing the output and error messages from the command execution.
+      
+## Screenshots
+
+Below are some screenshots of the app to showcase the UI and functionality:
+
+![WhatsApp Image 2024-09-22 at 12 08 51 AM](https://github.com/user-attachments/assets/1835e7f6-9772-4355-ac67-a684fe734854)
+
+![WhatsApp Image 2024-09-22 at 12 08 50 AM](https://github.com/user-attachments/assets/06ceac05-af69-4af6-9e73-36c9f951167f)
+
+![WhatsApp Image 2024-09-22 at 12 08 50 AM (2)](https://github.com/user-attachments/assets/4f6a774e-0d0b-428c-ae34-c38b54b23b20)
+
+![WhatsApp Image 2024-09-22 at 12 08 50 AM (1)](https://github.com/user-attachments/assets/de62c92e-dd15-483a-a04c-a3afbb86e5e4)
+
 
 ## Contributing
 
-We welcome contributions from the community. Please follow these steps to contribute:
+I welcome contributions from the community. Please follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
